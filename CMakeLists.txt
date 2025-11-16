@@ -9,3 +9,4 @@ set( CMAKE_EXPORT_COMPILE_COMMANDS ON )
 find_package(Vizior REQUIRED)
 
 add_subdirectory(simple_pendulum)
+add_subdirectory(circle_path)
